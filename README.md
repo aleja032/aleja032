@@ -1,4 +1,4 @@
-👋Hi, I'm Alejandra Delgado!
+Hi, I'm Alejandra Delgado!
 
 👩‍💻 Web Developer<br/>
 🎨 Figma Designer<br>
