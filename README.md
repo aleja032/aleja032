@@ -9,19 +9,15 @@
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**<br>
 
-👩‍💻 Web Developer<br/>
-🎨 Figma Designer<br>
-📚 [SENA](https://zajuna.sena.edu.co/) Apprentice <br>
+🐞 Software Testing</br>
 🖥️ Backend Enthusiast<br>
 🧩 Problem Solver<br>
 💡Innovative Thinker <br>
-🌱 I’m currently learning  about data structure <br>
-
 
 # Teach Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,js,css,html,mysql,java" />
+    <img src="https://skillicons.dev/icons?i=git,js,css,html,mysql,python,playwright,postman" />
   </a>
 </p>
 
